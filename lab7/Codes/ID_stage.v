@@ -1,5 +1,6 @@
 `include "mycpu.h"
 
+//666
 module id_stage(
 	input                          clk           ,
 	input                          reset         ,
